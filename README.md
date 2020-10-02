@@ -1,16 +1,12 @@
-# visual_translator
+# Visual Translator
 
-A new Flutter project.
+Visual Translator is a Flutter Application that converts images to text and translates them in English if the text is an a different language.
 
-## Getting Started
+<p align = "center">
+  <img src = "https://media.giphy.com/media/gYc6bbQZa2UF2YeL94/giphy.gif">
+</p>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This application uses the OCR API which converts the image to text and parses the string and return's it to the application.
